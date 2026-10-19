@@ -57,7 +57,7 @@ export const MainMenu: React.FC<MainMenuProps> = ({
         <div className="flex-1 w-full text-center md:text-left">
           <div className="inline-flex items-center gap-1.5 text-xs font-extrabold text-emerald-800 bg-[#B8E6D1]/60 px-3 py-1 rounded-full mb-3">
             <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
-            <span>초등 5학년 맞춤 지구과학 영단어</span>
+            <span>초등학생 맞춤 지구과학 영단어</span>
           </div>
 
           <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-2">

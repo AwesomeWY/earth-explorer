@@ -379,7 +379,7 @@ export default function App() {
       <footer className="border-t border-[#F0E4D4] py-6 px-4 text-center text-xs text-slate-500">
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
           <div className="font-medium">
-            우주 단어 탐험대 (Earth Explorer) · 초등 5학년을 위한 지구과학 영어 퀴즈
+            우주 단어 탐험대 (Earth Explorer) · 초등학생을 위한 지구과학 영어 퀴즈
           </div>
           <div className="text-slate-400">
             데이터는 브라우저 로컬 저장소에 안전하게 보관됩니다
