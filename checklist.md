@@ -13,5 +13,6 @@
 - [x] 푸터에 "By Mindstream LAB Awesome JWY" 크레딧
 - [x] GitHub Actions CI (lint + build)
 - [x] 타입 체크·빌드·로직 테스트·브라우저 확인
-- [ ] GitHub 저장소 생성 및 push
-- [ ] Vercel 배포
+- [x] GitHub 저장소 생성 및 push (https://github.com/AwesomeWY/earth-explorer)
+- [x] Vercel 프로젝트를 GitHub 저장소에 연결 (push 시 자동 배포)
+- [x] Vercel 배포 (https://earth-explorer-omega.vercel.app)
